@@ -191,13 +191,13 @@ h1, h2, h3, h4, h5, h6 {
 	 list-style:none;  
    }
    
-   .dvmenu{
-	   margin-right:5px;
-	   position:fixed;
-	   z-index:99;
-	   top:25%;	   	   
-	   right:0;
-   }
+   .dvmenu {
+    margin-right: 5px;
+    position: fixed;
+    z-index: 99;
+    top: 43%;
+    right: 0;
+}
    .dvmenu .active > a {
     background: white;   
   }
