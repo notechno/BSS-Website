@@ -8,6 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+  .carousel-inner img {
+  width: 100%;
+  height: 100vh;
+  }
 /*  ------------Loading-----------*/
     .loader {
     position: fixed;
@@ -343,7 +347,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
-  margin-bottom: -90px;
+  margin-bottom: 90px;
 }
 
 #hero .hero-container {
