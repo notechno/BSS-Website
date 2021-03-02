@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main {
-  margin-top: 90px;
+  margin-top: -90px;
 }
 
 /*--------------------------------------------------------------
@@ -199,7 +199,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 5px;
     position: fixed;
     z-index: 99;
-    top: 43%;
+    top: 30%;
     right: 0;
 }
    .dvmenu .active > a {
